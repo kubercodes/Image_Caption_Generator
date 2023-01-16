@@ -8,18 +8,17 @@ The objective of the project is to predict the captions for the input image. The
 
 
 
-**Dataset link**: https://www.kaggle.com/adityajn105/flickr8k
+...**Dataset link**: https://www.kaggle.com/adityajn105/flickr8k
 
 
 
-### Environment : Kaggle
+..### Environment : Kaggle
 
-### Libraries
-numpy
-matplotlib
-keras
-tensorflow
-nltk
+.. ### Technologies
+Numpy
+.Matplotlib
+.Keras
+.Nltk
 Neural Network
 VGG16 Network
 CNN-LSTM Network
@@ -31,9 +30,7 @@ CNN-LSTM Network
 |   BLEU-1      |   0.546204    |
 |   BLEU-2      |   0.320844    |
 
------- |  Score  
-BLEU-1 | 0.546204
-BLEU-1 | 0.320844
+
 
 ![image_1](https://user-images.githubusercontent.com/72246104/159900922-c4130869-bba4-44af-81a2-968ae02b7a40.PNG)
 
