@@ -17,7 +17,9 @@ The objective of the project is to predict the captions for the input image. The
 <br/>
 <br/>
 <br/>
-### Technologies
+
+
+### Technologies 
 Numpy<br/>
 Matplotlib\
 Keras\
