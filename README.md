@@ -24,7 +24,7 @@ Keras\
 Nltk\
 Neural Network\
 VGG16 Network\
-CNN-LSTM Network\
+CNN-LSTM Network
 
 ## Results
 
