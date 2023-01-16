@@ -8,13 +8,13 @@ The objective of the project is to predict the captions for the input image. The
 
 
 
-...**Dataset link**: https://www.kaggle.com/adityajn105/flickr8k
+**Dataset link**: https://www.kaggle.com/adityajn105/flickr8k
 
 
 
 ### Environment : Kaggle
-<br/>
-<br/>
+
+
 ### Technologies
 Numpy\
 Matplotlib\
