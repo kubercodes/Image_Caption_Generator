@@ -13,15 +13,16 @@ The objective of the project is to predict the captions for the input image. The
 
 
 ### Environment : Kaggle
-
+<br/>
+<br/>
 ### Technologies
 Numpy\
-Matplotlib__
-Keras__
-Nltk__
-Neural Network__
-VGG16 Network__
-CNN-LSTM Network__
+Matplotlib\
+Keras\
+Nltk\
+Neural Network\
+VGG16 Network\
+CNN-LSTM Network\
 
 ## Results
 
