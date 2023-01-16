@@ -15,7 +15,7 @@ The objective of the project is to predict the captions for the input image. The
 ### Environment : Kaggle
 
 ### Technologies
-Numpy__
+Numpy\
 Matplotlib__
 Keras__
 Nltk__
